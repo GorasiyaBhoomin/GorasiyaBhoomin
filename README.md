@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *js,laravel,android,php*
 
-- 📫 How to reach me *gorasiyabhoomin@gmail.com*
+- 📫 How to reach me *gorasiyabhoomin8@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
