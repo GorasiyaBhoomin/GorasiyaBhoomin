@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing *B.TECH 👨‍💻*
 
-- 🌱 I’m currently learning *js,laravel,android,php*
+- 🌱 I’m currently learning *react,laravel,flutter,php*
 
 - 📫 How to reach me *gorasiyabhoomin8@gmail.com*
 
