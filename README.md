@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from Gujarat ✨</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <a href="https://twitter.com/Bhoomin Gorasiya" target="blank"><img src="https://img.shields.io/twitter/follow/Bhoomin Gorasiya?logo=twitter&style=for-the-badge" alt="Bhoomin Gorasiya" /></a> </p>
 
